@@ -1,4 +1,4 @@
-﻿namespace EmailSenderAPP
+﻿namespace EmailFormApp
 {
     partial class Form1
     {
